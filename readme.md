@@ -3,6 +3,9 @@
 # Tic Tac Toe
 
 ## Objectives
+## New Feature
+
+This project now includes an updated feature.
 
 * Build a tic tac toe game in HTML, CSS, and vanilla JavaScript
 * Use best practices when writing code
